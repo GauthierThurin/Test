@@ -3,7 +3,7 @@ l'appli fameuse des Iris de Fisher
 
 ## Rapport 
 
-Ceci est un document expliquant le contenu de l'application shiny visible à https://couallier.shinyapps.io/ShinyApps/
+Ceci est un document expliquant le contenu de l'application shiny visible à https://couallier.shinyapps.io/MSS-Projet_Final-les-Iris/
 
 On doit mettre ici deux ou trois sorties d'analyses et des graphes qui résume l'application.
 
@@ -21,4 +21,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 L'application shiny contient deux fichiers 'server.R' et 'ui.R' disponible dans ce dépot.
 
-Cliquez sur ce lien pour la visualiser : https://couallier.shinyapps.io/ShinyApps/
+Cliquez sur ce lien pour la visualiser : https://couallier.shinyapps.io/MSS-Projet_Final-les-Iris/
