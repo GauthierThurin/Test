@@ -7,12 +7,6 @@ Ceci est un document expliquant le contenu de l'application shiny visible à htt
 
 On doit mettre ici deux ou trois sorties d'analyses et des graphes qui résume l'application.
 
-*à suivre* 
-
-'exemple de code'
-`dplyr`
-
-
 On peut modifier ce fichier README.md, extrait du fichier RMarkdown de RStudio, sur la base de la **cheatsheet** suivante
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
