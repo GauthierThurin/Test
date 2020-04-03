@@ -9,6 +9,9 @@ On doit mettre ici deux ou trois sorties d'analyses et des graphes qui résume l
 
 *à suivre* 
 
+'exemple de code'
+
+
 On peut modifier ce fichier README.md, extrait du fichier RMarkdown de RStudio, sur la base de la **cheatsheet** suivante
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
